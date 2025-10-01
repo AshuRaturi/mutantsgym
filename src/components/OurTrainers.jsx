@@ -6,7 +6,7 @@ const trainers = [
   {
     name: "Aman Juyal",
     role: "Strength & Conditioning Coach",
-    img: "/src/assets/aman3-new.jpeg",
+    img: "/aman3-new.jpeg",
     desc: "10+ years of experience in bodybuilding, powerlifting and functional training.",
     socials: {
       instagram: "#",
@@ -17,7 +17,7 @@ const trainers = [
   {
     name: "Priya Mehra",
     role: "Zumba & Cardio Specialist",
-    img: "/src/assets/aman2-new.jpeg",
+    img: "/aman2-new.jpeg",
     desc: "Certified Zumba instructor helping people stay fit with fun dance workouts.",
     socials: {
       instagram: "#",
@@ -28,7 +28,7 @@ const trainers = [
   {
     name: "Rohit Verma",
     role: "Boxing Coach",
-    img: "/src/assets/aman2-new.jpeg",
+    img: "/aman2-new.jpeg",
     desc: "Professional fighter with 8 years of experience in boxing and mixed martial arts.",
     socials: {
       instagram: "#",

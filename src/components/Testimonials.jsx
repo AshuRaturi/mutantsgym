@@ -10,28 +10,28 @@ const TestimonialData = [
     name: "Chiraag BG",
     rating: 5,
     text: "Felt really good after joining gym. Trainers are very professional and approachable. Lost 12 KG in 3 months and now building muscles with confidence.",
-    img: "/src/assets/male-avatar.jpg",
+    img: "/male-avatar.jpg",
   },
   {
     id: 2,
     name: "Shivansh Sajwan",
     rating: 4,
     text: "Best machines, friendly vibe, and huge cardio + calisthenics space. Perfect place for someone who loves free body exercises.",
-    img: "/src/assets/male-avatar.jpg",
+    img: "/male-avatar.jpg",
   },
   {
     id: 3,
     name: "Sonia Negi",
     rating: 4,
     text: "Wide space, motivating atmosphere and humble owner. Every workout feels positive and effective. Love this gym 💪",
-    img: "/src/assets/female-avatarr.png",
+    img: "/female-avatarr.png",
   },
   {
     id: 4,
     name: "Vedic Panchori",
     rating: 5,
     text: "Mutants helped me fix nutrition habits & challenge my limits. Trainers push you just enough to grow. Feeling healthier day by day.",
-    img: "/src/assets/male-avatar.jpg",
+    img: "/male-avatar.jpg",
   },
 ];
 
