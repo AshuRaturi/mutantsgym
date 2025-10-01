@@ -10,20 +10,20 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
 import FloatingActions from "./components/FloatingActions";
-
+import OfferStrip from "./components/OfferStrip";
 // ✅ New Page
 import OurTrainers from "./components/OurTrainers";
 
 import gym1 from "./assets/aman1.webp";
-import gym2 from "./assets/aman2.webp";
+import gym2 from "./assets/aman2-new.jpeg";
 import gym3 from "./assets/aman3.webp";
 import gym4 from "./assets/dumbells.webp";
-import gym5 from "./assets/mainview.webp";
+import gym5 from "./assets/gym-charges-plan.jpeg";
 import gym6 from "./assets/dumbell2.webp";
 import gym7 from "./assets/machine1.webp";
 import gym9 from "./assets/machine3.webp";
-import gym10 from "./assets/menugym.webp";
-import OfferStrip from "./components/OfferStrip";
+import gym10 from "./assets/aman3-new.jpeg";
+
 
 const App = () => {
   const images = [gym1, gym2, gym3, gym4, gym5, gym6, gym7, gym10, gym9];

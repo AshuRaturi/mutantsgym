@@ -8,12 +8,12 @@ const OfferStrip = () => {
         <span className="mx-8">
           💪 Join Now & Get Free Personal Training Session!
         </span>
-        <span className="mx-8">🏋️‍♂️ Annual Membership at Just ₹9999!</span>
+        <span className="mx-8">🏋️‍♂️ Annual Membership at Just ₹9,500!</span>
         <span className="mx-8">🔥 Get 20% OFF on First Month Membership!</span>
         <span className="mx-8">
           💪 Join Now & Get Free Personal Training Session!
         </span>
-        <span className="mx-8">🏋️‍♂️ Annual Membership at Just ₹9999!</span>
+        <span className="mx-8">🏋️‍♂️ Annual Membership at Just ₹9,500!</span>
       </div>
     </div>
   );
