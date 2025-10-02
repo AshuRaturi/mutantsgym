@@ -7,8 +7,8 @@ import { ReactTyped } from "react-typed";
 
 const BgStyle = {
   backgroundImage: `url(${BannerImg})`,
-  backgroundPosition: "center",
-  backgroundRepeat: "no-repeat",
+  // backgroundPosition: "center",
+  // backgroundRepeat: "no-repeat",
   backgroundSize: "cover",
   width: "100%",
 };
@@ -55,6 +55,7 @@ const Hero = () => {
         setLoading(false);
       });
   };
+  
 
   return (
     <section style={BgStyle} className="dark:bg-black dark:text-white">
@@ -103,7 +104,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="w-full md:w-1/2"
           >
-            <div className="max-w-md p-6 mx-auto rounded-lg shadow-2xl bg-white/30 dark:bg-black/30 backdrop-blur-sm sm:p-8">
+            <div className="max-w-md mx-auto rounded-lg shadow-2xl bg-white/30 dark:bg-black/30 backdrop-blur-sm sm:p-8">
               <form onSubmit={handleSubmit} className="flex flex-col space-y-4">
                 <span className="text-2xl font-bold text-center text-yellow-500">
                   Let's Train Together

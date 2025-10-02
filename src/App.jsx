@@ -17,7 +17,7 @@ import OurTrainers from "./components/OurTrainers";
 import gym1 from "./assets/aman1.webp";
 import gym2 from "./assets/aman2-new.jpeg";
 import gym3 from "./assets/aman3.webp";
-import gym4 from "./assets/dumbells.webp";
+import gym4 from "./assets/gymequipped.jpg";
 import gym5 from "./assets/gym-charges-plan.jpeg";
 import gym6 from "./assets/dumbell2.webp";
 import gym7 from "./assets/machine1.webp";

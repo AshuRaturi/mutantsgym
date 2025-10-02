@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImg from "../assets/About.jpg";
+import AboutImg from "../assets/aboutus.jpg";
 import { Dumbbell, Users, Target } from "lucide-react";
 import { motion } from "framer-motion";
 

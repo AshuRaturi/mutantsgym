@@ -23,41 +23,6 @@ const Navbar = () => {
 
   return (
     <>
-      {/* 🔝 Topbar */}
-      {/* 🔝 Topbar */}
-      <div className="text-xs text-white bg-black sm:text-sm">
-        <div className="flex flex-col items-center justify-between gap-2 px-4 py-2 mx-auto max-w-7xl sm:flex-row sm:gap-0">
-          {/* Gym Timing */}
-          <p className="flex items-center gap-2 text-gray-300">
-            🕔 <span className="font-medium">Mon-Sat: 5:00 AM - 10:00 PM</span>
-          </p>
-
-          {/* Social Links */}
-          <div className="flex items-center gap-4 text-gray-300">
-            <a href="#" className="transition hover:text-yellow-500">
-              <FaFacebookF />
-            </a>
-            <a href="#" className="transition hover:text-yellow-500">
-              <FaInstagram />
-            </a>
-            <a href="#" className="transition hover:text-yellow-500">
-              <FaTwitter />
-            </a>
-            <a href="#" className="transition hover:text-yellow-500">
-              <FaYoutube />
-            </a>
-          </div>
-
-          {/* Phone */}
-          <a
-            href="tel:9897829686"
-            className="flex items-center gap-2 font-semibold text-yellow-500 hover:text-yellow-400"
-          >
-            <Phone className="w-4 h-4" /> +91 98978 29686
-          </a>
-        </div>
-      </div>
-
       {/* Main Navbar */}
       <div className="fixed top-0 left-0 z-20 w-full transition-colors duration-300 shadow-md bg-slate-100 dark:bg-dark dark:text-white">
         <div className="px-4 mx-auto max-w-7xl">
