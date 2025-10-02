@@ -17,7 +17,7 @@ const trainers = [
   {
     name: "Priya Mehra",
     role: "Zumba & Cardio Specialist",
-    img: "/aman2-new.jpeg",
+    img: "/logo.png",
     desc: "Certified Zumba instructor helping people stay fit with fun dance workouts.",
     socials: {
       instagram: "#",
@@ -28,7 +28,7 @@ const trainers = [
   {
     name: "Rohit Verma",
     role: "Boxing Coach",
-    img: "/aman2-new.jpeg",
+    img: "/logo.png",
     desc: "Professional fighter with 8 years of experience in boxing and mixed martial arts.",
     socials: {
       instagram: "#",

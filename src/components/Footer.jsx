@@ -115,7 +115,7 @@ const Footer = () => {
         </p>
         <p className="mt-1 text-xs text-gray-500 dark:text-gray-400">
           Developed &amp; Managed by{" "}
-          <span className="font-medium">Ashutosh Raturi</span>
+          <a href="https://portfolioashutosh-lovat.vercel.app/" target="_blank" className="font-medium underline">Ashutosh Raturi</a>
         </p>
       </div>
     </footer>
