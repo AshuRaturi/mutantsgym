@@ -15,7 +15,7 @@ const trainers = [
     },
   },
   {
-    name: "Priya Mehra",
+    name: "Harshita Kandari",
     role: "Zumba & Cardio Specialist",
     img: "/logo.png",
     desc: "Certified Zumba instructor helping people stay fit with fun dance workouts.",
@@ -26,7 +26,7 @@ const trainers = [
     },
   },
   {
-    name: "Rohit Verma",
+    name: "Amit Thapa",
     role: "Boxing Coach",
     img: "/logo.png",
     desc: "Professional fighter with 8 years of experience in boxing and mixed martial arts.",
