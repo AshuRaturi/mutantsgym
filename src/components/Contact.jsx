@@ -165,7 +165,7 @@ const Contact = () => {
                 <div className="p-2 border border-yellow-500 rounded-2xl">
                   <Mail className="text-yellow-500" />
                 </div>
-                <a href="mailto:amanjuyal96@gmail.com">amanjuyal96@gmail.com</a>
+                <a href="mailto:mutantsgym96@gmail.com">mutantsgym96@gmail.com</a>
               </div>
 
               <div className="flex items-start gap-3 text-gray-600 dark:text-gray-300">
