@@ -7,8 +7,8 @@ import { ReactTyped } from "react-typed";
 
 const BgStyle = {
   backgroundImage: `url(${BannerImg})`,
-  // backgroundPosition: "center",
-  // backgroundRepeat: "no-repeat",
+  backgroundPosition: "center",
+  backgroundRepeat: "no-repeat",
   backgroundSize: "cover",
   width: "100%",
 };
