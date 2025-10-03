@@ -5,7 +5,7 @@ import { FaInstagram, FaFacebook, FaTwitter } from "react-icons/fa";
 const trainers = [
   {
     name: "Aman Juyal",
-    role: "Strength & Conditioning Coach",
+    role: "Strength & Fitness Coach",
     img: "/aman3-new.jpeg",
     desc: "10+ years of experience in bodybuilding, powerlifting and functional training.",
     socials: {
@@ -14,9 +14,20 @@ const trainers = [
       twitter: "#",
     },
   },
+      {
+    name: "Abhishek Chaudhary",
+    role: "Fitness Coach",
+    img: "/logo.png",
+    desc: "Passionate about fitness and transformation, guiding clients to achieve peak performance with science-backed training techniques.",
+    socials: {
+      instagram: "#",
+      facebook: "#",
+      twitter: "#",
+    },
+  },
   {
-    name: "Harshita Kandari",
-    role: "Zumba & Cardio Specialist",
+    name: "Harshita Khanduri",
+    role: "Zumba Specialist",
     img: "/logo.png",
     desc: "Certified Zumba instructor helping people stay fit with fun dance workouts.",
     socials: {
@@ -36,6 +47,7 @@ const trainers = [
       twitter: "#",
     },
   },
+
 ];
 
 const OurTrainers = () => {
@@ -54,7 +66,7 @@ const OurTrainers = () => {
           {trainers.map((trainer, idx) => (
             <motion.div
               key={idx}
-              className="p-6 text-center transition-transform duration-500 bg-gray-900 shadow-lg rounded-2xl hover:scale-105 hover:shadow-[0_0_25px_rgba(255,255,0,0.5)] group perspective-1000"
+              className="p-6 text-center transition-transform duration-500 bg-gray-900 shadow-lg rounded-2xl hover:scale-105 hover:shadow-[0_0_25px_rgba(255,255,0,0.5)] group perspective-1000 mx-auto"
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
